@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-<title> RPL Assalaam </title>
+<title> SMK Assalaam_Rekayasa Perangkat Lunak </title>
 <!-- Latest compiled and minified Bootstrap CSS -->
 <link rel="stylesheet" href="css/bootstrap.min.css" />
 <link href="css/animate.css?v=1.0" rel="stylesheet" />
@@ -48,8 +48,8 @@
                               <ul class="nav navbar-nav navbar-right">
                                 <li><a href="#mainBox">Home</a></li>
                                 <li><a href="#prestasi">Prestasi</a></li>
-                                <li><a href="#team">Kurikulim Pengajar</a></li>
-                                <li><a href="#alumni">Alumni</a></li>
+                                <li><a href="#team">Kurikulim</a></li>
+                                <li><a href="#alumni">Testimoni</a></li>
                                 <li><a href="#journal">Berita</a></li>
                                 <li><a href="#contact">Contact us</a></li>
                               </ul>
@@ -74,7 +74,7 @@
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 animated wow fadeInUp" data-wow-delay="0.5s">
                                         <div class="line_through"><h6> Jangan Salah Memilih Jurusan </h6></div>
                                         <h1> Kami <span>Siap</span> Memberikan <br/>Yang Terbaik </h1>
-                                        <p> Rekayasa Perangkat Lunak , Menjamin Kehidupan Berkualitas Di Masa Depan, Dengan Di Bekali Skill WEB DAN ANDROID. </p>
+                                        <p> Rekayasa Perangkat Lunak , Menjamin Lulusan Berkualitas Di Masa Depan, Dengan Di Bekali Skill WEB DAN ANDROID. </p>
                                         <div class="banner_btns jumplinks">
                                             <a href="#prestasi"> Prestasi </a>
                                             <a href="#contact" class="filled-btn"> Contact us </a>
@@ -84,58 +84,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="slick-2"> 
-                        <div class="banner_text">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 animated wow fadeIn" data-wow-delay="0.5s">
-                                        <div class="line_through"><h6> Sharp design for your web project </h6></div>
-                                        <h1> Unique <span>Design</span> & Stylish <br/>Brand Perception. </h1>
-                                        <p> We’re creative agency, based out of Ahmedabad, focused on creating beautiful and functional apps. </p>
-                                        <div class="banner_btns jumplinks">
-                                            <a href="#work"> Explore our Work </a>
-                                            <a href="#contact" class="filled-btn"> Contact us </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="slick-3"> 
-                        <div class="banner_text">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 animated wow fadeIn" data-wow-delay="0.5s">
-                                        <div class="line_through"><h6> Sharp design for your web project </h6></div>
-                                        <h1> Unique <span>Design</span> & Stylish <br/>Brand Perception. </h1>
-                                        <p> We’re creative agency, based out of Ahmedabad, focused on creating beautiful and functional apps. </p>
-                                        <div class="banner_btns jumplinks">
-                                            <a href="#work"> Explore our Work </a>
-                                            <a href="#contact" class="filled-btn"> Contact us </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="slick-4"> 
-                        <div class="banner_text">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 animated wow fadeIn" data-wow-delay="0.5s">
-                                        <div class="line_through"><h6> Sharp design for your web project </h6></div>
-                                        <h1> Unique <span>Design</span> & Stylish <br/>Brand Perception. </h1>
-                                        <p> We’re creative agency, based out of Ahmedabad, focused on creating beautiful and functional apps. </p>
-                                        <div class="banner_btns jumplinks">
-                                            <a href="#work"> Explore our Work </a>
-                                            <a href="#contact" class="filled-btn"> Contact us </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </section>
             <!-- Banner Section Ends -->
 
@@ -287,6 +235,32 @@
                         </article>
                     </div>
                 </div>
+                <section id="team" class="pad-top-120 pad-bottom-120 bg-offwhite team">
+                <div class="container">
+                    <div class="row">
+                <header class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow animated fadeInUp" data-wow-delay="0.5s">
+                            <h2 class="secTitle"> Kurikulum Pembelajaran </h2>
+                            <h6 class="secCaption pad-bottom-120"> Industries Education Based </h6>
+                        </header>
+                        <center>
+                        <h3>KELAS X :</h3></center>
+
+    <br><td><h5>1. Siswa mampu membuat Aplikasi Sederhana.</h5></td>
+    <td><h5>2. Siswa mampu membuat dan menerapkan Database.</h5></td>
+    <td><h5>3. Siswa mampu membuat aplikasi yang terintegrasi ke Database.</h5></td>
+    <td><h5>4. Siswa mampu membuat aplikasi web berbasis HTML.</h5></td></br>
+
+<center><h3>KELAS XI :</h3></center>
+
+    <br><td><h5>1. Siswa mampu membuat Aplikasi Web Berbasis PHP.</h5></td>
+    <td><h5>2. Siswa mampu membuat Aplikasi Dinamis menggunakan Framework</h5></td>
+    <td><h5>3. Siswa mampu membuat Aplikasi Sederhana.</h5></td>
+    <td><h5>4. siswa mampu membuat Aplikasi Dinamis Berbasis Mobile.</h5></td></br>
+
+<center><h3>KELAS XII :</h3></center>
+
+    <br><td><h5>1. Siswa mampu menganalisis dari permasalahan lingkungan untuk kemudian dibuat Sistem atau Aplikasi.</h5></td></br>
+    
             </section>
             <!-- Team Section Ends -->
 
@@ -295,7 +269,7 @@
                 <div class="container">
                     <div class="row">
                         <header class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow animated fadeInUp" data-wow-delay="0.5s">
-                            <h2 class="secTitle"> Alumni RPL Assalaam Bandung </h2>
+                            <h2 class="secTitle"> Testimoni Alumni </h2>
                             <h6 class="secCaption pad-bottom-120"> Industries Education Based </h6>
                         </header>
 
@@ -323,7 +297,7 @@
                                                     <br>
                                                     <br>
                                                     <br>
-                                                    <i>~ Alumni RPL Assalaam ~</i> </p>
+                                                    <i>~ Alumni RPL SMK Assalaam ~</i> </p>
                                                 
                                             </div>
                                         </div>
@@ -345,9 +319,10 @@
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow animated fadeInUp" data-wow-delay="0.5s">
                             <div class="logoSlide owl-carousel">
                                 <div class="item"><img src="images/1.png" alt="image" /></div>
-                                <div class="item"><img src="images/1.png" alt="image" /></div>
-                                <div class="item"><img src="images/1.png" alt="image" /></div>
-                                <div class="item"><img src="images/1.png" alt="image" /></div>
+                                <div class="item"><img src="images/len1.png" alt="image" /></div>
+                                <div class="item"><img src="images/mo1.png" alt="image" /></div>
+                                <div class="item"><img src="images/gix.png" alt="image" /></div>
+                                <div class="item"><img src="images/ti.png" alt="image" /></div>
                             </div>
                         </div>
                     </div>
