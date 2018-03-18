@@ -1,3 +1,7 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -98,8 +102,8 @@
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow animated fadeInUp" data-wow-delay="0.5s">
                             <span class="icon-heart fIcons"></span>
-                            <h4> Loved By <span>3,00,000 +</span> </h4>
-                            <h5> WONDERFUL <span>PROJECTS</span> SERVED FROM <span>2016</span> TO NOW! </h5>
+                            <h4> Followers By <span>5,000,000 +</span> </h4>
+                            <h5> WONDERFUL <span>PROJECTS</span> SERVED FROM <span>2018</span> TO NOW! </h5>
                             <h6> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  </h6>
                         </div>
                     </div>
@@ -114,9 +118,9 @@
                         <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 wow animated fadeInUp" data-wow-delay="0.5s">
                             <div class="outBox">
                                 <div class="topOut">
-                                    <h2>THINK <br/>OUT <br/>Side <br/>THe</h2>
+                                    <h3>Convince <br/>Yourself <br/>Through <br/>The Majors</h3>
                                 </div>
-                                <div class="btmOut"><h2>BOX</h2></div>
+                                <div class="btmOut"><h2>RPL</h2></div>
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 wow animated fadeInUp" data-wow-delay="0.5s">
@@ -168,8 +172,9 @@
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 custparallax">
                         <header class="customerBox pad-top-120 pad-bottom-120 wow animated fadeInUp" data-wow-delay="0.5s">
                             <div class="custTest">
-                                <div class="custTitle"><h2> OUR <br/>customer <br/>SAY`S </h2></div>
-                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud aliquip ex ea commodo consequat. Duis aute irure dolor in dolore eu fugiat nulla  ariatur. Excepteur sint occaecat cupidatat officia deserunt mollit anim id est laborum. </p>
+                                <div class="custTitle"><h2> REKAYASA <br/>perangkat <br/>LUNAK </h2></div>
+                                <p> Pilihan berkualitas untuk generasi cerdas. Program pembelajaran berbasis Teknologi Informasi, siap menjadi bekal keahlian membentuk progammer handal yang mampu mengembangkan diri sesuai tuntutan kemajuan zaman, menjawab peluang kerja berbasis teknologi komputer di berbagai sektor
+iphone </p>
                             </div>
                         </header>
                         </div>
@@ -348,6 +353,7 @@
                                 <br>
                                 <p>{{$data->isi}}</p>
                             </div>
+                            
                         </article>
                               @endforeach
 
@@ -367,9 +373,9 @@
                         <article class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow animated fadeInUp" data-wow-delay="0.5s">
                             <div class="address">
                                 <label>ADDRESS</label>
-                                <h6> 121 King St, Melbourne VIC 3000, Australia </h6>
+                                <h6> Jl. Situtarate, Cibaduyut, Bandung </h6>
                                 <label>Call Us</label>
-                                <h6> +91 98 76 543210 </h6>
+                                <h6> 022 5420-220 </h6>
                                 <label>EMAIL</label>
                                 <h6> <a href="javascript:void(0);"> support@agency.com </a> </h6>
                             </div>
